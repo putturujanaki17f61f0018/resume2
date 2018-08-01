@@ -1,0 +1,24 @@
+{
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization."
+  },
+  "education":[
+    {
+      "degree":"MCA(moster of computer science)",
+      "institute" :"Siddhartha college of engineering",
+      "data":["2017-2020","87%"]
+    },
+    {
+      "degree":"Intermediate(MEC)",
+      "institute":"sri vidnan jr college",
+      "data":["2012-2014","85%"]
+
+    },
+    {  "degree":"ssc",
+      "institute" :"ZPG high school",
+      "data":["2012","85%"]
+
+    }
+  ]
+
+}
