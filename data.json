@@ -19,6 +19,24 @@
       "data":["2012","85%"]
 
     }
+  ],
+  "skills":[
+    {
+      "title":"Programming Languages",
+      "set":["Java","C","Python","C++"]
+    },
+    {
+      "title":"Web Technologies",
+      "set":["HTML","CSS","PHP","JavaScript"]
+    },
+    {
+      "title":"Data Base",
+      "set":["Sql","Mysql","Oracle","Nosql"]
+    },
+    {
+      "title":"Operating Systems",
+      "set":["Windows","Dos","Linux","Mac"]
+    }
   ]
 
 }
