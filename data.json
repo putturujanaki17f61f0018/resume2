@@ -37,6 +37,19 @@
       "title":"Operating Systems",
       "set":["Windows","Dos","Linux","Mac"]
     }
+  ],
+  "achievements":[
+    {
+      "achievedData":"Got 1<sup>st</sup> Prize in PPT presentation."
+    },
+    {
+
+        "achievedData":"Got 1<sup>st</sup> Prize in Technical quiz."
+      },
+      {
+
+          "achievedData":"Got 1<sup>st</sup> Prize in Running compitition."
+        }
   ]
 
 }
